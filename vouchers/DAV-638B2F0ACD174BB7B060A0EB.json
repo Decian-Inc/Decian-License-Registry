@@ -1,0 +1,9 @@
+{
+  "schema": "decian-voucher-status/v1",
+  "payload_b64url": "eyJleHBpcmVzX2F0X3V0YyI6IjIwMjYtMTAtMTFUMjE6MDU6MzhaIiwiaXNzdWVkX2F0X3V0YyI6IjIwMjYtMDktMTFUMjE6MDU6MzhaIiwic2VxdWVuY2UiOjEsInN0YXR1cyI6ImFjdGl2ZSIsInRva2VuX3NoYTI1NiI6IjllNGM3Mjg2ZTk3ZTVmOWY1ZDJhYzY4YzU3YjE4Y2IwZmY1ZTRkYzVjOTNiZDY0OWI4Nzk3MmY1ODI1M2VjMTIiLCJ2b3VjaGVyX2lkIjoiREFWLTYzOEIyRjBBQ0QxNzRCQjdCMDYwQTBFQiJ9",
+  "signature": {
+    "alg": "ES256",
+    "key_id": "decian-license-prod-01",
+    "value_b64url": "MEUCIAEmo0cncP3NavUqCx6_o72UP4nlzZYHOww0fxhclZw7AiEAnwXhpxJKlCnNzJIp9-LmsqGwakzTbmHbdEgCuhZFWw0"
+  }
+}
