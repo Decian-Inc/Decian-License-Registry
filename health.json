@@ -3,5 +3,10 @@
   "status": "online",
   "key_id": "decian-license-prod-01",
   "source": "github-public-registry",
-  "generated_at_utc": "2026-09-11T01:13:38Z"
+  "supports": [
+    "machine-entitlement-v1",
+    "activation-voucher-v1",
+    "voucher-status-v1"
+  ],
+  "generated_at_utc": "2026-09-11T21:05:21Z"
 }
