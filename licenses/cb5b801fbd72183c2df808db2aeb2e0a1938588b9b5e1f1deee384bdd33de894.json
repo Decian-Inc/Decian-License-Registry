@@ -1,0 +1,30 @@
+{
+  "schema": "decian-license/v1",
+  "payload": {
+    "license_id": "DEC-LIC-1EC2412776874536AAFB",
+    "subject_id": "DEC-SUB-AD1067ECABBF4B5A96EE",
+    "product_id": "m365-incident-investigator",
+    "binding_key": "cb5b801fbd72183c2df808db2aeb2e0a1938588b9b5e1f1deee384bdd33de894",
+    "issued_at_utc": "2026-09-14T18:13:43Z",
+    "not_before_utc": "2026-09-14T18:13:43Z",
+    "expires_at_utc": "2027-09-14T18:13:43Z",
+    "status": "active",
+    "edition": "internal",
+    "update_channel": "dev",
+    "features": [
+      "auto-update",
+      "collection",
+      "correlation",
+      "enrichment",
+      "remediation",
+      "reporting"
+    ],
+    "offline_grace_days": 7,
+    "sequence": 1
+  },
+  "signature": {
+    "alg": "ES256",
+    "key_id": "decian-license-prod-01",
+    "value_b64": "MEUCIBVtgEbaiRKPIaOls2GHcF6LkJZumJfA8D6oRkUL4QFQAiEA53bjmP4Tooqw6aHSvHuBDRKrfUHrMh8LwANcS2ttNIA="
+  }
+}
