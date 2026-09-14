@@ -8,7 +8,7 @@
     "issued_at_utc": "2026-09-14T18:13:43Z",
     "not_before_utc": "2026-09-14T18:13:43Z",
     "expires_at_utc": "2027-09-14T18:13:43Z",
-    "status": "active",
+    "status": "revoked",
     "edition": "internal",
     "update_channel": "dev",
     "features": [
@@ -20,11 +20,12 @@
       "reporting"
     ],
     "offline_grace_days": 7,
-    "sequence": 1
+    "sequence": 2,
+    "revoked_at_utc": "2026-09-14T22:21:33Z"
   },
   "signature": {
     "alg": "ES256",
     "key_id": "decian-license-prod-01",
-    "value_b64": "MEUCIBVtgEbaiRKPIaOls2GHcF6LkJZumJfA8D6oRkUL4QFQAiEA53bjmP4Tooqw6aHSvHuBDRKrfUHrMh8LwANcS2ttNIA="
+    "value_b64": "MEUCIFa5bcPX2pG07bOuQtUbrBFT0jq7vmmA+0biyEd7Jv6eAiEA96advIhOcSvPiOTiZftM4CMubeCAB6jrY+6io97hzzE="
   }
 }
