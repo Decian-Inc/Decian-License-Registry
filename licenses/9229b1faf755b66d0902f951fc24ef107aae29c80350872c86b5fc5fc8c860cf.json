@@ -7,7 +7,7 @@
     "binding_key": "9229b1faf755b66d0902f951fc24ef107aae29c80350872c86b5fc5fc8c860cf",
     "issued_at_utc": "2026-09-11T01:09:43Z",
     "not_before_utc": "2026-09-11T01:09:43Z",
-    "expires_at_utc": "2026-09-18T01:01:45Z",
+    "expires_at_utc": "2036-09-15T14:01:37Z",
     "status": "active",
     "edition": "internal",
     "update_channel": "dev",
@@ -18,11 +18,11 @@
       "vpn"
     ],
     "offline_grace_days": 14,
-    "sequence": 3
+    "sequence": 4
   },
   "signature": {
     "alg": "ES256",
     "key_id": "decian-license-prod-01",
-    "value_b64": "MEUCIQC9V/tDgRZnw3z44YzvTLgkB0dCaYbMcijL6SBT3dipGgIgatm/LKUozr6frO/K3l1jRX8kYpd+ITNILZqyDJ8oB6s="
+    "value_b64": "MEQCIDwodJZuersdkai4ZUMWX9ao2j1YivgJgwe8d3I8q7GrAiAkN8MVaVQfGxZlDYSt6tNjAc7pJCJYVfUOHiKubprpHw=="
   }
 }
