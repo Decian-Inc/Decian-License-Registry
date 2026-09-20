@@ -1,0 +1,26 @@
+{
+  "schema": "decian-license/v1",
+  "payload": {
+    "license_id": "DEC-LIC-72240C332CF14553AE54",
+    "subject_id": "DEC-SUB-D2FD1524E20C426EAB37",
+    "product_id": "license-control-center",
+    "binding_key": "2a796053623000e885224ca9581dfcddf675ed69fb99085749b6c0ba68b09c60",
+    "issued_at_utc": "2026-09-20T01:44:55Z",
+    "not_before_utc": "2026-09-20T01:44:55Z",
+    "expires_at_utc": "2027-09-20T01:44:55Z",
+    "status": "active",
+    "edition": "internal",
+    "update_channel": "dev",
+    "features": [
+      "lcc-authority"
+    ],
+    "offline_grace_days": 0,
+    "sequence": 1,
+    "min_app_version": "0.1.0-preview.9"
+  },
+  "signature": {
+    "alg": "ES256",
+    "key_id": "decian-license-prod-01",
+    "value_b64": "MEYCIQCN6XS4vc5h4HURpmRknbJhwDxMcycQL9BSMpeSwCvWMgIhAJ4jpSTpD5Hh4M0uRcQRnk8N6v9HiCVxMbXZH7B8fO13"
+  }
+}
