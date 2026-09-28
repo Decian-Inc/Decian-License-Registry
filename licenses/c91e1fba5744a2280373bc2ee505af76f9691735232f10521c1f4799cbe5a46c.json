@@ -1,0 +1,28 @@
+{
+  "schema": "decian-license/v1",
+  "payload": {
+    "license_id": "DEC-LIC-D990886A2DFA40EB8290",
+    "subject_id": "DEC-SUB-C544EC06604147CE817C",
+    "product_id": "secure-access",
+    "binding_key": "c91e1fba5744a2280373bc2ee505af76f9691735232f10521c1f4799cbe5a46c",
+    "issued_at_utc": "2026-09-28T14:57:11Z",
+    "not_before_utc": "2026-09-28T14:57:11Z",
+    "expires_at_utc": "2027-09-28T14:57:11Z",
+    "status": "active",
+    "edition": "internal",
+    "update_channel": "dev",
+    "features": [
+      "auto-update",
+      "central-policy",
+      "profile-backup",
+      "vpn"
+    ],
+    "offline_grace_days": 14,
+    "sequence": 1
+  },
+  "signature": {
+    "alg": "ES256",
+    "key_id": "decian-license-prod-01",
+    "value_b64": "MEYCIQCDiIY9EZM1sA9FTs0NRP3cbXeLgI1s2s6nq1cIRtSGYwIhAP/zWyT+pjIJHEeJahM5qshmbF72TzGHomhfT4gL6wLT"
+  }
+}
